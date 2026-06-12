@@ -1,0 +1,10 @@
+
+path: /dataset_examples
+
+train: train
+val: val
+
+names:
+  - drone
+
+nc: 1
